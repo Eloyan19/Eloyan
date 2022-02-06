@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/gifGalleryFragment">
+    <fragment
+        android:id="@+id/gifGalleryFragment"
+        android:name="com.tinkoff.eloyan.ui.gifplayer.GifPlayerFragment"
+        android:label="fragment_gif_gallery"
+        tools:layout="@layout/gif_player_fragment" />
+</navigation>

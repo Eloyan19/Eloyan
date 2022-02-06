@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="toolbar_text_size">26sp</dimen>
+    <dimen name="gif_player_fab_margin">14dp</dimen>
+    <dimen name="gif_player_fab_elevation">14dp</dimen>
+    <dimen name="gif_item_gradient_height">65dp</dimen>
+    <dimen name="item_view_corner_radius">16dp</dimen>
+    <dimen name="item_view_margin">8dp</dimen>
+</resources>

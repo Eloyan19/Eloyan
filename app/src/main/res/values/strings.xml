@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gif Player</string>
+    <string name="title_activity_main">Gif Player</string>
+    <string name="gallery_button_retry">Повторить</string>
+    <string name="gallery_button_previous">Предыдущая</string>
+    <string name="gallery_button_next">Следующая</string>
+    <string name="item_description">Описание</string>
+    <string name="gallery_connection_error_message">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+</resources>
